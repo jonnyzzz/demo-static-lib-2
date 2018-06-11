@@ -1,0 +1,7 @@
+*.swp
+*.out
+*.a
+*.o
+*.klib*
+*.kexe
+
