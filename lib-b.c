@@ -4,7 +4,7 @@
 
 int lib_b_foo() {
 
-  return 42 + lib_a_foo();;
+  return 42 + lib_a_foo();
 
 }
 

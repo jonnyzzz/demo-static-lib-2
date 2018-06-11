@@ -1,5 +1,5 @@
-#ifndef LIB2_H_INCLUDED
-#define LIB2_H_INCLUDED
+#ifndef LIB2_BH_INCLUDED
+#define LIB2_BH_INCLUDED
 
 #ifdef __cplusplus
    extern “C” {
